@@ -21,9 +21,8 @@ Even as Rio is a very big city, with 162 neighbouhoods, while the the most popul
 Meat is an expensive commoditie. Used not to be, as Brazil is one of the worlds production leaders, but recent rise in China imports (billed in us dolars) more attractive than internal market, so the local prices suffered a steep rise, growing from US$25 to US$43 for the "arroba"(15Kg).
 
 &nbsp;
-That change represents a challenge to the steakhouses to maintain the same sells volume (and do not close filials and fire employers), and, still more than that, to expand and grow their leverage opening more filials became a real difficult and critical decision.
+That change represents a challenge to the steakhouses to maintain the same sells volume (and do not close filials and fire employers), and, above that, to expand and grow their leverage opening more filials. This became a real difficult and critical decision in the actual scenario for this market.
 
 &nbsp;
-This is the objective of this research: to select the best neighbouhood to open a new steakhouse, taking in acount both low concurrency and population income, as this business tipically has an expensive ticket, now more yet.
+The objective of this research is to select the best neighbouhood to open a new steakhouse, taking in acount both low concurrency and population income, as this business tipically has an expensive ticket, now more yet.
 &nbsp;
-
