@@ -1,12 +1,7 @@
-# <center>  **IBM Data Science Professional Certificate** </center>
-&nbsp; 
+<p align="center"><h1> <b> Steakhouse Filial Neibourhood Research in Rio de janeiro </b> </h1></p>
+&nbsp;
 
-
-##  <center>  Capstone - Week 4: Project Assignment - part 2 </center>
-&nbsp; 
-
- 
-### <center> Project: Steakhouse Filial Neibourhood Research  </center>
+<p align="center"><h2> <b> Felipe N. Santos </b> </h2></p>
 &nbsp;
 
 
