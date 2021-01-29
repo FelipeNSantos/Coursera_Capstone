@@ -1,4 +1,4 @@
-<p align="center"><h1> <b> Steakhouse Filial Neibourhood Research in Rio de janeiro </b> </h1></p>
+<p align="center"><h1> <b> Steakhouse Filial Neighbourhood Research in Rio de janeiro </b> </h1></p>
 &nbsp;
 
 <p align="center"><h2> <b> Felipe N. Santos </b> </h2></p>
